@@ -3,7 +3,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nuribnuu"  />
 </div>
 
-###
 
 ![nuribnuu](/image/github-header-image-fix.png)
 
