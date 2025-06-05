@@ -36,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuribnuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuribnuu/nuribnuu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuribnuu/nuribnuu/output/pacman-contribution-graph.svg">
