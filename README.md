@@ -22,11 +22,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nuribnuu"  />
 </div>
 
+###
+
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,scss,figma,npm,bun,nodejs,linux,git,github&theme=light" height="50" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,scss,figma,npm,bun,nodejs,linux,git,github&theme=light" height="50" alt="tech stack logo"  />
 </div>
 
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nuribnuu&theme=dark&show_icons=true" height="150" alt="stats graph"  />
